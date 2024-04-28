@@ -1,6 +1,5 @@
 # Five-Card-Draw
-Project Report: Tampa Five Card Draw in C++ 
-
+**Project Report: Tampa Five Card Draw in C++** 
 Created by Joshua-Luke Lacsamana, Josiah Varghese, and Isaac Powell 
 
 **Abstract/Overview**
