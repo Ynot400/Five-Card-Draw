@@ -2,6 +2,13 @@
 **Project Report: Tampa Five Card Draw in C++** 
 Created by Joshua-Luke Lacsamana, Josiah Varghese, and Isaac Powell 
 
+To run the program, simply be in the folder directory, and execute the following line:
+g++ -std=c++11 Tampa_Five_Card_Draw.cpp -o Tampa_Five_Card_Draw
+./Tampa_Five_Card_Draw
+
+The following is a link to a video showcasing the usage of this program:
+[](https://youtu.be/kQLf0QnO62A)
+
 **Abstract/Overview**
 
 Tampa Five Card Draw is our variant of the classic card game Poker, in which players are given a hand of five cards instead of getting a pair of cards. Tampa Five Card Draw has the same functionality as poker when it comes to betting chips, folding your cards, or checking, just with the difference that there are no “common cards,” and the winner is based on who has the better hand. Our variant has some unique rules: Aces are always high, suit values only matter in royal flushes, straights can’t be broken, and, in the case of a hand-rank tie (for example, both players have a pair of 2’s), a tie is given instead of determining follow-up high cards. This game has been executed by us in c++, and more info about how the game works can be found through this link. https://www.wikihow.com/Play-Five-Card-Draw 
