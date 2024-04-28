@@ -26,6 +26,7 @@ string name;
 string suit; 
 
 __Class Card Functions__ 
+
 We have quick public functions that allow us to access these values, such as getName(), getSuit(), etc. 
  
 
