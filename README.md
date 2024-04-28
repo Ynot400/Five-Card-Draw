@@ -3,11 +3,12 @@
 Created by Joshua-Luke Lacsamana, Josiah Varghese, and Isaac Powell 
 
 To run the program, simply be in the folder directory, and execute the following line:
+
 g++ -std=c++11 Tampa_Five_Card_Draw.cpp -o Tampa_Five_Card_Draw
 ./Tampa_Five_Card_Draw
 
 The following is a link to a video showcasing the usage of this program:
-[](https://youtu.be/kQLf0QnO62A)
+[Link](https://youtu.be/kQLf0QnO62A)
 
 **Abstract/Overview**
 
